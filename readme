@@ -1,0 +1,9 @@
+a utility for checking to see if all pages in your app load
+
+to use
+
+-- npm install
+
+-- phantomjs index.js
+
+modify baseUrl and toLoad with the appropriate variables
